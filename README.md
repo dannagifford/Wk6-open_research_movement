@@ -1,1 +1,1 @@
-# Workshop on Mixed-effects Models Part 1
+# Workshop on The Open Research Movement
