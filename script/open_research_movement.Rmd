@@ -11,15 +11,16 @@ output:
 ---
 # Introduction
 
-Up until now, we've discussed reproducible data science from a theoretical point of view, while also discussing some of the tools you can use to achieve these aims. This workshop will discuss the Open Research Movment more broadly, and organisations involved in its promotion. We will also have a look at some resources provided by The University of Manchester to assist researchers (such as yourselves!) in achieving open and reproducible research.
+Up until now, we've discussed reproducible data science from a theoretical point of view, while also discussing some of the tools you can use to achieve these aims. This workshop will discuss the Open Research Movement more broadly, and organisations involved in its promotion. We will also have a look at some resources provided by The University of Manchester to assist researchers (such as yourselves!) in achieving open and reproducible research.
 
 ## Slides
-[![Link to open research movement slides](../images/slides.png){width="75%"}](../slides/The_Open_Research_Movement.odp)
+[![Link to open research movement slides](../images/slides.png){width="75%"}](https://docs.google.com/presentation/d/1QzBPzMt_ZbQYVDrzTpRO75mGqRgGm1b58w2gyT-p5rU/edit?usp=sharing)
 
 The Open Research Movement is a global initiative that seeks to revolutionize the way research is conducted, shared, and accessed. It is driven by a set of core principles that emphasize openness, transparency, and collaboration throughout the research process. In this workshop, we will delve into the key aspects and benefits of the Open Research movement.
 
 Listen to Andrew Stewart (Institutional Lead for Open and Reproducible Research at The University of Manchester) speak about the benefits and challenges of conducting open research:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wyS7tJPDcq0?si=u6LMTvBHFu_M7-pC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wyS7tJPDcq0?si=u6LMTvBHFu_M7-pC" title="Andrew Stewart (Institutional Lead for Open and Reproducible Research at The University of Manchester)" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 # Key Principles of Open Research
 
@@ -30,7 +31,8 @@ Open Access is a cornerstone of the Open Research movement. It advocates for the
 Organizations like the [Open Access Scholarly Publishers Association (OASPA)](https://oaspa.org/) and [Directory of Open Access Journals (DOAJ)](https://doaj.org/) are at the forefront of advocating for and ensuring the quality and integrity of open-access journals. They work diligently to establish best practices and standards in open-access publishing. Additionally, institutions and funders play a significant role in advancing open access. Bodies such as the [Open Research Funders Group (ORFG)](https://www.orfg.org/) and [Plan S](https://www.coalition-s.org/) are driving initiatives to make research outputs openly accessible, thereby democratizing knowledge and fostering innovation.  
 
 Watch this animated video narrated by [Nick Shockey](https://sparcopen.org/people/nick-shockey) (Director of Programs & Engagement for [SPARC](https://sparcopen.org)) and [Jonathan Eisen](https://en.wikipedia.org/wiki/Jonathan_Eisen) (Advisory Board Member for open access journal [PLOS Biology](https://journals.plos.org/plosbiology)), animations by [Jorge Cham](https://jorgecham.com/) ([PhD Comics](https://phdcomics.com/)). 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L5rVH1KGBCY?si=nztcmRGApVMzUwap" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="560" height="315"  data-external="1" src="https://www.youtube.com/embed/L5rVH1KGBCY?si=nztcmRGApVMzUwap" frameborder="0" allowfullscreen></iframe>
 
 ## Open Data
 
@@ -206,28 +208,28 @@ These journals offer researchers the opportunity to publish their work with a CC
 
 The University of Manchester is an active participant in the Open Research Movement, demonstrating a strong commitment to openness, transparency, and collaboration in research practices. The University has embraced Open Access publishing, making a significant portion of its research output freely available to the public, thereby increasing the accessibility of knowledge. Moreover, it actively encourages researchers to share their datasets openly, promoting the principles of Open Data. The University also fosters interdisciplinary collaborations and provides support for researchers to engage in open science initiatives, thus contributing to the ethos of Open Collaboration. By championing these principles and actively participating in the Open Research Movement, the University is not only advancing the credibility and reproducibility of research but also fostering a culture of innovation and knowledge sharing within its academic community and beyond.
 
-Listen to Professor Collette Fagan speak about The University of Manchester's committment to Open Research and read about the University's [Position Statement on Open Research](https://www.openresearch.manchester.ac.uk/about-us/position-statement/). You can also explore [Support offered by the University](https://www.openresearch.manchester.ac.uk/support/) for conducting Open Research:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aWOb9KHaQv0?si=mmur-LDtIXQUQxmJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+Listen to Professor Collette Fagan speak about The University of Manchester's commitment to Open Research and read about the University's [Position Statement on Open Research](https://www.openresearch.manchester.ac.uk/about-us/position-statement/). You can also explore [Support offered by the University](https://www.openresearch.manchester.ac.uk/support/) for conducting Open Research:  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aWOb9KHaQv0?si=mmur-LDtIXQUQxmJ" title="Professor Collette Fagan speaking on UoM commitment to Open Research" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 ## The Office for Open Research
 Led by the Library, the [Office for Open Research](https://www.openresearch.manchester.ac.uk/) supports the University's aims to create a more open and responsible research environment. It represents one of the most substantial investments in the future of publishing, data, and open knowledge ever made by a UK university. The establishment of the Open Research Service Partnership is part of a coordinated effort to respond to the Open Research agenda, further bolstering the support available to researchers and expediting the adoption of Open Research practices. The creation of this office establishes a central hub for Open Research initiatives at The University of Manchester, positioning the institution at the forefront of this global movement. Fostering open dialogue with the research community is a priority, allowing for the clear delineation of Open Research goals and the accommodation of the diverse needs of various research communities.
 
 Watch this video to learn more about the initiatives undertaken by the University:  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/78nbIrgS2LY?si=9t2wUHMFMyPbaHCr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78nbIrgS2LY?si=9t2wUHMFMyPbaHCr" title="Open research initiatives at The University of Manchester" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 # Tools provided to support Open Research
 
 ## Managing research data
 
 Listen to Dr Patrick Manu speak about the process of open research and open research practices
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3gRfY8J6bOI?si=M1v0GpbNHkBMgyjQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gRfY8J6bOI?si=M1v0GpbNHkBMgyjQ" title="Dr Patrick Manu speaks about open research practices" data-external="1" frameborder="0" allowfullscreen></iframe>
 
 In line with the open research movement, it is increasingly common for [funding agencies](https://www.library.manchester.ac.uk/services/research/research-data-management/policies/funders/) to mandate the creation of data management plans (DMPs) as part of grant applications. The University of Manchester's [Research Data Management (RDM) Policy](https://www.library.manchester.ac.uk/services/research/research-data-management/policies/) extends this requirement to all research projects, whether they receive funding or not. These DMPs are essential for projects, which are time-limited efforts aimed at addressing specific research questions. In cases of collaborative projects where the university is not the lead institution, a DMP is necessary to address data management for Manchester-based data. Researchers are encouraged to consult the Policies page to ensure compliance with their funder's data requirements. It's worth noting that terminology related to DMPs can vary among funders, with terms like Data Management and Sharing Plan or Outputs Management Plan also in use. Additionally, it's crucial to follow specific protocols, such as the Standard Operating Procedure for recording and storing audio, video, and images of research participants.
 
 The University of Manchester offers this version of [DMPonline](https://dmponline.manchester.ac.uk/) to assist in writing data management plans. It provides access to valuable guidance, advice, and template responses.
 
 Listen to Lorraine Beard speak the Open Research Service Partnership and maintaining responsible metrics for research
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8nMqRaM4M2A?si=g6Cxgee12hY4tgZt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8nMqRaM4M2A?si=g6Cxgee12hY4tgZt" title="Lorraine Beard speaks about the Open Research Service Partnership" data-external="1" frameborder="0"  allowfullscreen></iframe>
 
 ## Your challenge
 
