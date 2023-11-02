@@ -1,1 +1,1 @@
-# Workshop on Open Research Movement
+# Workshop on The Open Research Movement
